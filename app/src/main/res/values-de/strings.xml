@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo_app">Meine Hallo Welt</string>
+    <string name="mi_texto">Willkommen</string>
+    <string name="boton">Betreten</string>
+</resources>
